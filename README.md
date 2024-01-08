@@ -1,5 +1,8 @@
-I split my time between bench-research at a leading biotech company, and developing new research tools. 
+I've worked at a few leading biotech companies and have a MS from Northwestern in applied AI. 
 
 Currently, I work with R and Python for statistics and machine-learning work.
+
+Website: https://gbwiersum.wixsite.com/website
+LinkedIn: https://www.linkedin.com/in/gbwiersum
 
 Check out my github and let me know if you'd like to work together by emailing me at: gbwiersum@gmail.com
